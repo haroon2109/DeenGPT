@@ -1,0 +1,7 @@
+{
+  "name": "DeenGPT",
+  "description": "Your AI Companion for Faith and Knowledge. A seamless integration of advanced technology with timeless Islamic wisdom.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
